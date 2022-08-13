@@ -1,0 +1,9 @@
+{
+  "name": "carbone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "carbone": "^3.2.3"
+  }
+}
